@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "intranet",
+    "packageName": "com.vamani.application",
+    "packageFolder": "com/vamani/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "oracle",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "MmIxMDIzOWVjOTIwZGZkODFjNGUyMDg4ODE5ODQzYWFkNTdjNDcyMmY2YjgwYjExZDA1OTE3MGYxZWY0YzYwODZkYTYwNWIwZDcxYjdkYWFjMWVlZWRmOTllNmMzNWY0MGJmZjM0Mzk5NzFhOGNlMmRkZGMwOWRmNjYwMWM4NDE=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "vivekkrjaiswal",
+  "repository-name": "intranet"
+}
